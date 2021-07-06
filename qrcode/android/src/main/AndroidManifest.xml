@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  package="com.example.qrcode">
+
+    <uses-sdk tools:overrideLibrary="com.google.zxing.client.android" />
+
+</manifest>
